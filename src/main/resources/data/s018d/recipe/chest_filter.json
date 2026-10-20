@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "G G",
+    " C ",
+    " G "
+  ],
+  "key": {
+    "G": { "item": "minecraft:glass_pane" },
+    "C": { "item": "minecraft:chest" }
+  },
+  "result": { "id": "s018d:chest_filter", "count": 1 }
+}

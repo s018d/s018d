@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " G ",
+    "GDG",
+    " G "
+  ],
+  "key": {
+    "G": { "item": "minecraft:gold_nugget" },
+    "D": { "item": "minecraft:diamond" }
+  },
+  "result": { "id": "s018d:engagement_ring", "count": 1 }
+}

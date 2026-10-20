@@ -1,0 +1,36 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+issueTrackerURL="https://github.com/s018d/s018d/issues"
+
+[[mods]]
+modId="s018d"
+version="1.0.1"
+displayName="s018d"
+displayURL="https://github.com/s018d/s018d"
+logoFile="s018d_logo.png"
+credits="s018d Team"
+authors="s018d"
+description='s018d enslavement mod: enslave creatures as servants, assign jobs, give and take tools, sort and store in chests, and raise hybrid children. Survival friendly, no divine powers.'
+
+[[accessTransformers]]
+file="META-INF/accesstransformer.cfg"
+
+[[dependencies.s018d]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.0, )"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.s018d]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21, 1.22)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.s018d]]
+    modId="jei"
+    type="optional"
+    versionRange="[19.19.6.235,)"
+    ordering="NONE"
+    side="BOTH"

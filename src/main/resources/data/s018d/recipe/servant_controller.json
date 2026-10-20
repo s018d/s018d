@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LLL",
+    "SSS",
+    "   "
+  ],
+  "key": {
+    "L": { "tag": "minecraft:logs" },
+    "S": { "item": "minecraft:stone" }
+  },
+  "result": { "id": "s018d:servant_controller", "count": 1 }
+}
